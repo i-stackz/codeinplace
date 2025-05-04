@@ -1,6 +1,5 @@
 
 # Stanford's CODEINPLACE Course
-=======
 ## Description: This repository will contain my work in Stanford's Code In Place programming course found at https://codeinplace.stanford.edu/
 
 * Week 1 - Completed 5/2/2025
