@@ -1,0 +1,11 @@
+
+
+Anatomy of a program:
+
+1. Import packages/libraries
+2. main function
+3. helper functions
+4. start program / call main function
+
+ 	a. if __name__ == '__main__':
+	    main()
